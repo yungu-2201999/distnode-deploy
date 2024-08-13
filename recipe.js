@@ -9,4 +9,4 @@ module.exports = class Recipe {
     toJSON(){
         return { id: this.id, name: this.name}
     }
-};
+}; 
